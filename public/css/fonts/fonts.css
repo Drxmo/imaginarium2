@@ -1,0 +1,36 @@
+@font-face{
+  font-family:sourcesans;
+  src:url(Quattrocento-Regular.ttf);
+}
+@font-face{
+  font-family:sourcesans-light;
+  src:url(SourceSansPro-Light.ttf);
+}
+@font-face{
+  font-family:CondLight;
+  src:url(OpenSans-CondLight.ttf);
+}
+@font-face{
+  font-family:condBold;
+  src:url(OpenSans-CondBold.ttf);
+}
+@font-face{
+  font-family:ralewayRegular;
+  src:url(Raleway-Regular.ttf);
+}
+@font-face{
+  font-family:ralewayBold;
+  src:url(Raleway-Bold.ttf);
+}
+@font-face{
+  font-family:ralewaySemiBold;
+  src:url(Raleway-SemiBold.ttf);
+}
+@font-face{
+  font-family:BankGothicMdBT;
+  src:url(bankgothic-md-bt-medium.eot);
+  src:url(bankgothic-md-bt-medium.ttf);
+  src:url(bankgothic-md-bt-medium.woff);
+  font-weight: normal;
+  font-style: normal;
+}
