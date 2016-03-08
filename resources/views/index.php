@@ -1,4 +1,4 @@
-<?php include_once ('/Templates/Backend/head.php') ?>
+
 <?php include_once ('/Templates/Frontend/header.php') ?>
 
 <script>
@@ -396,4 +396,3 @@
 
 
 <?php include_once ('/Templates/Frontend/footer.php') ?>
-<?php include_once ('/Templates/Backend/foot.php') ?>
