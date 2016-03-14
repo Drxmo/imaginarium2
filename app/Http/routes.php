@@ -18,7 +18,9 @@ Route::get('/', function () {
 Route::controllers([
     'usuarios/usuarios' => "Modulos\Usuarios\UsuariosController",
     'usuarios/roles' => "Modulos\Usuarios\RolesController",
-    'eventos/eventos' => "Modulos\Eventos\EventosController"
+    'eventos/eventos' => "Modulos\Eventos\EventosController",
+    'eventos/evento' => "Modulos\Eventos\EventoController",
+    'eventos/crear' => "Modulos\Eventos\CrearController"
 ]);
 /*
   |--------------------------------------------------------------------------

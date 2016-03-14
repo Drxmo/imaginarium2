@@ -531,9 +531,7 @@ div#ws_fullscreen:fullscreen {
   height: 100%;
 }
 
-.innerCDAP{
-  height: 225px;
-}
+
 
 
 /*CARRUSEL TERMINADO*/
@@ -658,13 +656,46 @@ div#allCDAP {
 
 /*IMÁGENES CON EFECTO TERMINADO*/
 
+.descriptionCDAP{
+  margin-top: 85px;
+  margin-bottom: 85px;
+  text-align: center;
+}
+
+.lineaCDAP{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid blue;
+  
+}
+
+#tituCDAP{
+  text-align: center;
+  color:  #fff;
+  
+}
 
 
-/*EVENTO INTEGRO*/
+.texCDAP{
+  color: #e6e6e6;
+}
 
 
 
-/*EVENTO INTEGRO TERMINADO*/
+.litransCDAP{
+  color:transparent;
+}
+
+#baje{
+  bottom:-800px;
+}
+
+
+/*EVENTO DETALLE*/
+
+
+
+/*EVENTO DETALLE TERMINADO*/
 
 
 /*Termina Eventos*/
